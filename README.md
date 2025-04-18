@@ -1,7 +1,5 @@
 # Shiva Roopan - Portfolio Website
 
-![Portfolio Preview](/public/images/profile.jpg)
-
 ## About Me
 
 I'm a Senior Full Stack Developer with expertise in building seamless web & mobile experiences using modern technologies. Passionate about creating efficient, user-friendly solutions that solve real-world problems.
